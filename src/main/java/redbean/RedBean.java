@@ -7,7 +7,7 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 
 @Path("RedBean")
-public class RedBean{
+public class RedBean {
 
     @GET
     @Path("hello")

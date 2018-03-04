@@ -11,3 +11,4 @@ The purpose of this project is:
 
 Notes:
 1. Since this project is small, I won't .gitignore the compiled .class files or dependency jars.
+2. Start jetty: `./bin/jetty.sh start`
